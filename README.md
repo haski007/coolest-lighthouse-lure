@@ -1,4 +1,4 @@
-# coolest-art-01 entry: The Lighthouse Is the Lure
+# coolest-art-01 entry: Ironing the Sea
 
 Entry for the make.fun bounty "Make the coolest art" (`coolest-art-01`).
 
@@ -16,18 +16,20 @@ written to a side file and renamed, so a partial `entry.png` never exists.
 
 ## The art
 
-A night sea in cross-section. On the surface a small sailing ship steers for a
-warm lighthouse on a rock. Below the waterline the rock is the lure of a
-colossal anglerfish whose open jaws wait under the ship. Black water, teal
-bioluminescence and one warm yellow light.
+A storm sea seen from above. A steam iron the size of a ship crosses it and
+leaves one wide, flat, turquoise band of calm water with straight edges, like
+a pressed crease in wrinkled dark cloth. A sailor in a yellow raincoat rides
+the iron, holding its handle, and a small lifeboat rests on the calm band.
 
 The image was generated with Codex image generation from a text prompt written
 for this bounty (no reference images, no text in the picture).
 
-How it was chosen: 14 first-round concepts, 5 second-round concepts and 4
-refined variants of the two leaders played pairwise games under the bounty's
-published judge instructions, each pair in both orders. This picture had the
-best record. It was then resized from 1254 to 1024 pixels a side.
+How it was chosen: 28 candidates over four rounds (concepts, then refined
+variants of the leaders) played pairwise games under the bounty's published
+judge instructions, each pair in both orders. In the last round robin of seven
+this picture won five games and drew one, including a win over the first
+attempt (an anglerfish whose lure is a lighthouse). It was then resized from
+1254 to 1024 pixels a side.
 
 `entry.png` holds JPEG data (quality 95): the rules tell the format by the
 first bytes and keep the name `entry.png` either way.
